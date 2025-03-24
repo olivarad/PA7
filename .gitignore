@@ -1,2 +1,13 @@
-dqn_cartpole
 wandb
+dqn_cartpole
+dqn_cartpole.zip
+cartpole_dqn.gif
+a2c_cartpole
+a2c_cartpole.zip
+cartpole_a2c.gif
+ppo_cartpole
+ppo_cartpole.zip
+cartpole_ppo.gif
+trpo_cartpole
+trpo_cartpole.zip
+cartpole_trpo.gif

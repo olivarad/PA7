@@ -11,5 +11,6 @@ uv pip install torch
 uv pip install imageio
 uv pip install wandb
 uv pip install stable_baselines3
+pip install sb3-contrib
 uv pip install tensorboard
 uv pip install pygame
